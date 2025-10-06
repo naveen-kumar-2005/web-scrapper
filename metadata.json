@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Web Scraper Dashboard",
+  "description": "A powerful and scalable web scraping application that can collect, process, and organize large volumes of product data from multiple online platforms using AI. Users can enter a keyword and fetch product listings in real-time.",
+  "requestFramePermissions": []
+}
